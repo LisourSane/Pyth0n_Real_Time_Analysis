@@ -10,7 +10,7 @@ import random
 import time
 import scipy.stats as stats
 
-cols = ["Stock 1", "Stock 2", "Stock 3", "Stock 4", "Strange Stock 5"]
+cols = ["Stock_1", "Stock_2", "Stock_3", "Stock_4", "Strange Stock_5"]
 #stock_data = pd.DataFrame([list([50, 50, 50, 50, 50])], columns=cols)
 #print(stock_data)
 #correlation matrix
